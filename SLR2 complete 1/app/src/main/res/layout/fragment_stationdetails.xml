@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#999ECC"
+    android:backgroundTint="#D6AE8A"
+    tools:context=".fragments.stationdetails">
+
+    <Spinner
+        android:id="@+id/item_spinner"
+        android:layout_width="359dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="57dp"
+        android:layout_marginTop="243dp"
+        android:layout_marginEnd="21dp"
+        android:background="#EAE7E5"
+        android:backgroundTint="#F4FAFA"
+        android:dropDownSelector="@android:drawable/arrow_down_float" />
+
+    <TextView
+        android:id="@+id/item_details_textview"
+        android:layout_width="361dp"
+        android:layout_height="159dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="148dp"
+        android:background="#EADDDD"
+        android:textColor="#151313"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="277dp"
+        android:layout_height="78dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="39dp"
+        android:text="Station Details"
+        android:textColor="#011713"
+        android:textSize="34sp" />
+
+</RelativeLayout>

@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+    <TableLayout
+        android:layout_width="700dp"
+        android:layout_height="337dp">
+
+        <!-- First Row -->
+        <TableRow>
+
+            <TextView
+                android:layout_width="100dp"
+                android:background="#E68229"
+                android:text="" />
+
+
+            <TextView
+                android:layout_width="100dp"
+                android:background="#E68229"
+                android:text="Mathara"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:background="#E68229"
+                android:text="Kaluthara"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:background="#E68229"
+                android:text="Colombo"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="100dp"
+
+                android:background="#E68229"
+                android:text="Kurunagala"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="100dp"
+
+                android:background="#E68229"
+                android:text="Anuradhapura"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:background="#E68229"
+                android:text="Jaffna"
+                android:textAlignment="center" />
+        </TableRow>
+
+        <!-- Second Row -->
+
+
+        <TableLayout
+            android:layout_width="638dp"
+            android:layout_height="294dp"
+            android:layout_weight="1"
+            android:background="#E9F1E6">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="match_parent"
+                    android:background="#EA7F21"
+                    android:text="" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#A3DDDF"
+                    android:text="Up"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:background="#9ADF7F"
+                    android:text="Down"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#A3DDDF"
+                    android:text="Up"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+
+                    android:background="#9ADF7F"
+                    android:text="Down"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#A3DDDF"
+                    android:text="Up"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+
+                    android:background="#9ADF7F"
+                    android:text="Down"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#A3DDDF"
+                    android:text="Up"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+
+                    android:background="#97DC7C"
+                    android:text="Down"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#A3DDDF"
+                    android:text="Up"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#9ADF7F"
+                    android:text="Down"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#A3DDDF"
+                    android:text="Up"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:background="#9ADF7F"
+                    android:text="Down"
+                    android:textAlignment="center" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="match_parent"
+                    android:background="#DDA4A4"
+                    android:text="Rajarata Rajina"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:background="#A3DDDF"
+                    android:text="8.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="5.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="10.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="2.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="12.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="12.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="2.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="10.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="4.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="8.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="8.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="4.00 A.M"
+                    android:textAlignment="center" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="95dp"
+                    android:layout_height="match_parent"
+                    android:background="#B5C6E1"
+                    android:text="Yall Dewi"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="49dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="10.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="8.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="12.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="6.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="2.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="4.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="6.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="12.00 A.M"
+                    android:textAlignment="center" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="95dp"
+                    android:layout_height="match_parent"
+                    android:background="#DFBB9B"
+                    android:text="Night Mail"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="49dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="6.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="9.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="8.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="7.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="10.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="5.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="2.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="2.30 A.M"
+                    android:textAlignment="center" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="95dp"
+                    android:layout_height="match_parent"
+                    android:background="#CDB3B3"
+                    android:text="Intercity Express"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="49dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="2.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="3.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="4.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="1.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="6.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="11.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="10.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="8.00 A.M"
+                    android:textAlignment="center" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="95dp"
+                    android:layout_height="match_parent"
+                    android:background="#93CF98"
+                    android:text="Udaya Dewi"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="49dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text=""
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="8.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="4.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="9.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="2.00 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="12.00 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="12.30 P.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#A3DDDF"
+                    android:text="2.30 A.M"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:layout_width="32dp"
+                    android:layout_height="match_parent"
+                    android:background="#88E18E"
+                    android:text="10.00 A.M"
+                    android:textAlignment="center" />
+
+            </TableRow>
+
+
+        </TableLayout>
+    </TableLayout>
+
+
+
+
+
+
+
+</RelativeLayout>

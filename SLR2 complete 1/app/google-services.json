@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604723259560",
+    "project_id": "slr-tickets",
+    "storage_bucket": "slr-tickets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604723259560:android:6b127f333d3d09a38aba9d",
+        "android_client_info": {
+          "package_name": "com.example.slr2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604723259560-iqn7ah3qab4krsubl6ahrt0bb0hsamnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBK7PMEEMLsDp3bzT11RFbIAVQefipYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604723259560-iqn7ah3qab4krsubl6ahrt0bb0hsamnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
